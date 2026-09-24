@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bayram Kamuş</h1>
+<h1 align="center">Hi 👋, I'm Bayram Kamus</h1>
 <h3 align="center">Computer engineering student in Turkey · Machine Learning & Full-Stack Web</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bayramkamus" alt="bayramkamus" /></a> </p>
